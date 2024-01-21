@@ -1,5 +1,3 @@
-![](https://i.imgur.com/xG74tOh.png)
-
 # Exercício 01
 
 ## Implementação de Api para sistemas de Biblioteca

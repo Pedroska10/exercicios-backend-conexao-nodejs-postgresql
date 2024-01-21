@@ -1,5 +1,3 @@
-![](https://i.imgur.com/xG74tOh.png)
-
 # Exercícios - Conexão Node.js com PostgreSQL
 
 ## Exercícios de classe 🏫
